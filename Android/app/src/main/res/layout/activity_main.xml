@@ -13,7 +13,8 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/roboto_mono_medium_italic"
         android:text="Hello World!"
-        android:textSize="30sp"
+        android:textSize="35sp"
+        android:textoColor="#fff"
         android:layout_marginTop="200dp"
         android:textAlignment="center"/>
 
