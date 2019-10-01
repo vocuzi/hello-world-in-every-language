@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HelloWorld_Hacktober</string>
+    <string name="hello_world_image">Hello World Image</string>
 </resources>
