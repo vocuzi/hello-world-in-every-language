@@ -13,6 +13,6 @@
     "typescript": "^3.6.2"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.803.2"
+    "@angular-devkit/build-angular": "^15.0.4"
   }
 }
